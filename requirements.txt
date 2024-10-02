@@ -5,12 +5,12 @@ numpy>=1.15
 pandas>=1.0,!=1.1.5,<2.2.0
 scipy>=0.18
 tabulate>=0.7
-scikit-learn
+#scikit-learn
 tqdm
 torch>=2.0.0
 torchaudio
-torchtext
-torchvision
+#torchtext
+#torchvision
 pydantic<2.0
 transformers>=4.42.3
 #tifffile
@@ -27,7 +27,7 @@ jsonschema>=4.5.0,<4.7
 marshmallow
 marshmallow-jsonschema
 marshmallow-dataclass==8.5.4
-tensorboard
+#tensorboard
 nltk    # Required for rouge scores.
 torchmetrics>=0.11.0
 torchinfo
