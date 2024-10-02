@@ -13,7 +13,7 @@ torchtext
 torchvision
 pydantic<2.0
 transformers>=4.42.3
-tifffile
+#tifffile
 imagecodecs
 tokenizers>=0.15
 spacy>=2.3
